@@ -19,3 +19,6 @@ book1.read(100);
 print("Pages Read: ${book1.getPagesRead()}");
 print("Book Age: ${book1.getBookAge()} years old");
 ```
+## Requirements
+- [Dart-SDK](https://dart.dev/get-dart) installed.
+- A Dart-compatible IDE or text editor.

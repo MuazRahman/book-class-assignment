@@ -23,5 +23,5 @@ print("Book Age: ${book1.getBookAge()} years old");
 - [Dart-SDK](https://dart.dev/get-dart) installed.
 - A Dart-compatible IDE or text editor.
 - (Offline IDE: [Android Studio](https://developer.android.com/studio/install)) or,
-- (Online IDE: [DartPad](https://dartpad.dev/)([Dart-SDK](https://dart.dev/get-dart) not required!))
+- (Online IDE: [DartPad](https://dartpad.dev/) [Dart-SDK](https://dart.dev/get-dart) not required!)
 
